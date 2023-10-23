@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GBrVvgAwmN/R8R6lDiGZ50xg9ZagfaGwDEkovhyUP3mGFRVSmkhoKImlXQMO0eGlzSVtZdzUbw/bYaQUWSZn/w==",
+  "success": true,
+  "projectFilePath": "/home/gabrielrichard/WebAPI/SysRH/SysRH/src/SysRH.Domain/SysRH.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/gabrielrichard/.nuget/packages/fluentvalidation/11.8.0/fluentvalidation.11.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
