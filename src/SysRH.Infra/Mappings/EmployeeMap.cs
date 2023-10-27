@@ -10,11 +10,26 @@ public class EmployeeMap : IEntityTypeConfiguration<Employee>
     {
         builder.ToTable("Employee");
 
-        builder.HasKey(x => x.Id);
+        builder.HasKey(e => e.Id);
+        
         builder.Property(x => x.Id)
-            .ValueGeneratedOnAdd()
+            .UseMySqlIdentityColumn()
             .HasColumnType("BIGINT");
-        builder.Property(x => x.Name)
-            .IsRequired();
+        
+        builder.Property(e => e.CPF)
+            .IsRequired()
+            .HasColumnType("BIGINT");
+        
+        builder.Property(e => e.Name)
+            .IsRequired()
+            .HasColumnType("VARCHAR(70)");
+        
+        builder.Property(e => e.Salary)
+            .IsRequired()
+            .HasColumnType("DECIMAL(12,2)");
+        builder.Property(e => e.EmploymentHistory)
+            .HasColumnType("VARCHAR(120)");
+        builder.Property(e => e.Trainings)
+            .HasColumnType("VARCHAR(120)");
     }
 }

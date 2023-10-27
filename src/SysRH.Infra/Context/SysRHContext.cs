@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using SysRH.Domain.Entities;
+using SysRH.Infra.Mappings;
 
 namespace SysRH.Infra.Context;
 
@@ -10,7 +11,7 @@ public class SysRHContext : DbContext
 
     public SysRHContext(DbContextOptions<SysRHContext> options) : base(options)
     { }
-
+    
     protected override void OnConfiguring(DbContextOptionsBuilder options)
     {
         var connection = "server=localhost; port=3306;database=SYSRH; uid=root;password=";

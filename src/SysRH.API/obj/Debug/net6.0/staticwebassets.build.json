@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kHz+Lciix0P642ZOreF1gl0tDf5/qHF4qzG5Gcx+p2U=",
+  "Source": "SysRH.API",
+  "BasePath": "_content/SysRH.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

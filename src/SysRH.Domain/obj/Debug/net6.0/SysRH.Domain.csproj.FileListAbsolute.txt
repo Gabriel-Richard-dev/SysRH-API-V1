@@ -1,0 +1,12 @@
+/home/gabrielrichard/WebAPI/SysRH/SysRH/src/SysRH.Domain/bin/Debug/net6.0/SysRH.Domain.deps.json
+/home/gabrielrichard/WebAPI/SysRH/SysRH/src/SysRH.Domain/bin/Debug/net6.0/SysRH.Domain.dll
+/home/gabrielrichard/WebAPI/SysRH/SysRH/src/SysRH.Domain/bin/Debug/net6.0/SysRH.Domain.pdb
+/home/gabrielrichard/WebAPI/SysRH/SysRH/src/SysRH.Domain/obj/Debug/net6.0/SysRH.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabrielrichard/WebAPI/SysRH/SysRH/src/SysRH.Domain/obj/Debug/net6.0/SysRH.Domain.AssemblyInfoInputs.cache
+/home/gabrielrichard/WebAPI/SysRH/SysRH/src/SysRH.Domain/obj/Debug/net6.0/SysRH.Domain.AssemblyInfo.cs
+/home/gabrielrichard/WebAPI/SysRH/SysRH/src/SysRH.Domain/obj/Debug/net6.0/SysRH.Domain.csproj.CoreCompileInputs.cache
+/home/gabrielrichard/WebAPI/SysRH/SysRH/src/SysRH.Domain/obj/Debug/net6.0/SysRH.Domain.dll
+/home/gabrielrichard/WebAPI/SysRH/SysRH/src/SysRH.Domain/obj/Debug/net6.0/ref/SysRH.Domain.dll
+/home/gabrielrichard/WebAPI/SysRH/SysRH/src/SysRH.Domain/obj/Debug/net6.0/SysRH.Domain.pdb
+/home/gabrielrichard/WebAPI/SysRH/SysRH/src/SysRH.Domain/obj/Debug/net6.0/SysRH.Domain.csproj.AssemblyReference.cache
+/home/gabrielrichard/WebAPI/SysRH/SysRH/src/SysRH.Domain/obj/Debug/net6.0/refint/SysRH.Domain.dll

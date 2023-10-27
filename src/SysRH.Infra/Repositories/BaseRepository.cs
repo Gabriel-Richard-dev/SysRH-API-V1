@@ -1,5 +1,6 @@
 using SysRH.Domain.Entities;
 using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
 using SysRH.Infra.Context;
 using SysRH.Infra.Interfaces;
 
@@ -14,23 +15,47 @@ public class BaseRepository<T> : IBaseInterface<T> where T : Base
     {
         _context = context;
     }
-    public Task<T> Create(T obj)
+    public virtual async Task<T> Create(T obj)
     {
-        _context.Add
+        _context.Add(obj);
+        await _context.SaveChangesAsync();
+
+        return obj;
+    }
+    public virtual async Task<T> Update(T obj)
+    {
+        _context.Entry(obj).State = EntityState.Modified;
+        await _context.SaveChangesAsync();
+
+        return obj;
     }
 
-    public Task Remove(long id)
+    public virtual async Task Remove(long id)
     {
-        throw new NotImplementedException();
+        var obj = await Get(id);
+        
+        if (obj is not null)
+        {
+            _context.Remove(obj);
+            await _context.SaveChangesAsync();
+        }
     }
 
-    public Task<T> Get(long id)
+    public virtual async Task<T> Get(long id)
     {
-        throw new NotImplementedException();
+        var obj = await _context.Set<T>()
+            .AsNoTrackingWithIdentityResolution()
+            .Where<T>(x => (x.Id == id)).ToListAsync();
+        
+        return obj.FirstOrDefault();
     }
 
-    public Task<List<T>> Get()
+    public virtual async Task<List<T>> Get()
     {
-        throw new NotImplementedException();
+        var list = await _context.Set<T>()
+            .AsNoTrackingWithIdentityResolution()
+            .ToListAsync();
+        
+        return list;
     }
 }

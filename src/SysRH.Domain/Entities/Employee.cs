@@ -1,3 +1,4 @@
+using System;
 using FluentValidation;
 using SysRH.Domain.Validators;
 
@@ -5,16 +6,19 @@ namespace SysRH.Domain.Entities;
 
 public class Employee : Base
 {
-    public Employee(int cpf, string name, decimal salary, string employmentHistory, string trainings)
+    protected Employee() {}
+
+    public Employee(long cpf, string name, decimal salary, string employmentHistory, string trainings)
     {
         CPF = cpf;
         Name = name;
         Salary = salary;
         EmploymentHistory = employmentHistory;
         Trainings = trainings;
+
     }
 
-    public  int CPF { get; set; }
+    public long CPF { get; set; }
     public string Name { get; set; }
     public decimal Salary { get; set; }
     public string EmploymentHistory{ get; set; }

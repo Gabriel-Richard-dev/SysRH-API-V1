@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="334fa601-5f4e-44a6-a91f-b815d13e6428" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SysRH.API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SysRH.API.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/SysRH.API.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/SysRH.API.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/SysRH.API.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/SysRH.API.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/SysRH.API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/SysRH.API.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/SysRH.API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/SysRH.API.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/SysRH.API.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/SysRH.API.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/SysRH.API.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/obj/SysRH.API.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Core/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Core/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Core/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Core/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Domain/Entities/Base.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Domain/Entities/Base.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Domain/Entities/Employee.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Domain/Entities/Employee.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Domain/Validators/EmployeeValidator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Domain/Validators/EmployeeValidator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Domain/obj/Debug/net6.0/SysRH.Domain.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Domain/obj/Debug/net6.0/SysRH.Domain.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Domain/obj/Debug/net6.0/SysRH.Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Domain/obj/Debug/net6.0/SysRH.Domain.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Domain/obj/Debug/net6.0/SysRH.Domain.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Domain/obj/Debug/net6.0/SysRH.Domain.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Domain/obj/SysRH.Domain.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Domain/obj/SysRH.Domain.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Domain/obj/SysRH.Domain.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Domain/obj/SysRH.Domain.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Domain/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Domain/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Domain/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Domain/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Domain/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Domain/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Domain/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Infra/Context/SysRHContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Infra/Context/SysRHContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Infra/Interfaces/IBaseInterface.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Infra/Interfaces/IBaseInterface.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Infra/Interfaces/IEmployeeInterface.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Infra/Interfaces/IEmployeeRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Infra/Mappings/EmployeeMap.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Infra/Mappings/EmployeeMap.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Infra/Repositories/BaseRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Infra/Repositories/BaseRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Infra/SysRH.Infra.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Infra/SysRH.Infra.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Infra/obj/Debug/net6.0/SysRH.Infra.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Infra/obj/Debug/net6.0/SysRH.Infra.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Infra/obj/Debug/net6.0/SysRH.Infra.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Infra/obj/Debug/net6.0/SysRH.Infra.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Infra/obj/Debug/net6.0/SysRH.Infra.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Infra/obj/Debug/net6.0/SysRH.Infra.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Infra/obj/SysRH.Infra.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Infra/obj/SysRH.Infra.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Infra/obj/SysRH.Infra.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Infra/obj/SysRH.Infra.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Infra/obj/SysRH.Infra.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Infra/obj/SysRH.Infra.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Infra/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Infra/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Infra/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Infra/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Infra/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Infra/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Infra/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Infra/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Infra/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Infra/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Services/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Services/SysRH.Services.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Services/SysRH.Services.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Services/obj/Debug/net6.0/SysRH.Services.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Services/obj/Debug/net6.0/SysRH.Services.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Services/obj/Debug/net6.0/SysRH.Services.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Services/obj/Debug/net6.0/SysRH.Services.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Services/obj/Debug/net6.0/SysRH.Services.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Services/obj/Debug/net6.0/SysRH.Services.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Services/obj/SysRH.Services.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Services/obj/SysRH.Services.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Services/obj/SysRH.Services.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Services/obj/SysRH.Services.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Services/obj/SysRH.Services.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Services/obj/SysRH.Services.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Services/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Services/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Services/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Services/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Services/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Services/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Services/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Services/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SysRH.Services/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../SysRH.Services/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2XIlfzoohgRuzxDe3mEVhomFt79" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="334fa601-5f4e-44a6-a91f-b815d13e6428" name="Changes" comment="" />
+      <created>1698324584484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698324584484</updated>
+      <workItem from="1698324584488" duration="77000" />
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

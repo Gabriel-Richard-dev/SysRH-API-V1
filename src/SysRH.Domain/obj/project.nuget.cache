@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "GBrVvgAwmN/R8R6lDiGZ50xg9ZagfaGwDEkovhyUP3mGFRVSmkhoKImlXQMO0eGlzSVtZdzUbw/bYaQUWSZn/w==",
+  "dgSpecHash": "/Kmc9TC8j3+GgLY4zjN2HkeEc6bo5LEY5A48pLLm3t7IPfJT+Jmr10iuro10E4JApNqMbiDlvhFdFZUolTv8/Q==",
   "success": true,
   "projectFilePath": "/home/gabrielrichard/WebAPI/SysRH/SysRH/src/SysRH.Domain/SysRH.Domain.csproj",
   "expectedPackageFiles": [
-    "/home/gabrielrichard/.nuget/packages/fluentvalidation/11.8.0/fluentvalidation.11.8.0.nupkg.sha512"
+    "/home/gabrielrichard/.nuget/packages/fluentvalidation/11.8.0/fluentvalidation.11.8.0.nupkg.sha512",
+    "/home/gabrielrichard/.nuget/packages/microsoft.aspnetcore.jsonpatch/6.0.12/microsoft.aspnetcore.jsonpatch.6.0.12.nupkg.sha512",
+    "/home/gabrielrichard/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/6.0.12/microsoft.aspnetcore.mvc.newtonsoftjson.6.0.12.nupkg.sha512",
+    "/home/gabrielrichard/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/gabrielrichard/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/gabrielrichard/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512"
   ],
   "logs": []
 }
