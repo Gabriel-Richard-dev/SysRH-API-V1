@@ -70,7 +70,7 @@ public class EmployeeService : IEmployeeServiceInterface
         return _mapper.Map<List<EmployeeDTO>>(employeeList);
     }
 
-    public async Task<EmployeeDTO> GetByCpf(long cpf)
+    public async Task<EmployeeDTO> GetByCpf(string cpf)
     {
         var employeeExists = await _employeeRepository.GetByCPF(cpf);
         

@@ -10,7 +10,7 @@ public interface IEmployeeServiceInterface
     Task<EmployeeDTO?> Get(long id);
     Task<List<EmployeeDTO>> Get();
     Task<List<EmployeeDTO>> SearchByName(string name);
-    Task<EmployeeDTO> GetByCpf(long cpf);
+    Task<EmployeeDTO> GetByCpf(string cpf);
     Task<String> DownloadHistory(long id);
     Task<String> DownloadTrainings(long id);
 }

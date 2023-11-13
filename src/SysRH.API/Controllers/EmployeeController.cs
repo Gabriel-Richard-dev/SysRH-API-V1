@@ -50,7 +50,7 @@ public class EmployeeController : ControllerBase
 
     [HttpGet]
     [Route("/GetCPF/{CPF}")]
-    public async Task<IActionResult> GetCPF(int CPF)
+    public async Task<IActionResult> GetCPF(string CPF)
     {
         return Ok((await _employeeService.GetByCpf(CPF)));
     }

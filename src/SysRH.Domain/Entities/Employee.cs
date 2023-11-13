@@ -8,7 +8,7 @@ public class Employee : Base
 {
     protected Employee() {}
 
-    public Employee(long cpf, string name, decimal salary, string employmentHistory, string trainings)
+    public Employee(string cpf, string name, decimal salary, string employmentHistory, string trainings)
     {
         CPF = cpf;
         Name = name;
@@ -18,14 +18,14 @@ public class Employee : Base
 
     }
 
-    public long CPF { get; set; }
+    public string CPF { get; set; }
     public string Name { get; set; }
     public decimal Salary { get; set; }
     public string EmploymentHistory{ get; set; }
     public string Trainings { get; set; }
 
     #region setters
-    public void SwitchCPF(int cpf)
+    public void SwitchCPF(string cpf)
     {
         CPF = cpf;
         Validate();

@@ -18,7 +18,7 @@ public class EmployeeMap : IEntityTypeConfiguration<Employee>
         
         builder.Property(e => e.CPF)
             .IsRequired()
-            .HasColumnType("BIGINT");
+            .HasColumnType("VARCHAR(11)");
         
         builder.Property(e => e.Name)
             .IsRequired()

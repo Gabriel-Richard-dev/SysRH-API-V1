@@ -13,10 +13,10 @@ public class EmployeeRepository : BaseRepository<Employee>, IEmployeeRepository
         _context = context;
     }
 
-    public virtual async Task<Employee?> GetByCPF(long cpf)
+    public virtual async Task<Employee?> GetByCPF(string cpf)
     {
         var employee = await _context.Set<Employee>()
-            .Where(e => e.CPF == cpf)
+            .Where(e => e.CPF.Equals(cpf) == true)
             .ToListAsync();
 
         return employee.FirstOrDefault();

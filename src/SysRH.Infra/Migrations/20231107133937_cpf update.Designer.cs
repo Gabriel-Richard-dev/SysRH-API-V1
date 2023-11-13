@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SysRH.Infra.Context;
 
@@ -10,9 +11,11 @@ using SysRH.Infra.Context;
 namespace SysRH.Infra.Migrations
 {
     [DbContext(typeof(SysRHContext))]
-    partial class SysRHContextModelSnapshot : ModelSnapshot
+    [Migration("20231107133937_cpf update")]
+    partial class cpfupdate
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
